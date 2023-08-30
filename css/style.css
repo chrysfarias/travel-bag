@@ -130,3 +130,18 @@ html {
     font-weight: 400;
 }
 
+
+
+
+.item strong {
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    Background: #C5965F;
+    font-weight: 400;
+}
+
+
